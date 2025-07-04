@@ -16,4 +16,4 @@ Anti-Disconnect has lots of features to keep you in game while you go afk, these
 * says custom messages in the chat!
 you can select one of the above actions, and also change how often it does that action right in the Anti-Disconnect Menu!
 
-Discord Server: discord.gg/5Y5QQXrcGp
+Join our [Discord server](discord.gg/5Y5QQXrcGp) to get updates!
