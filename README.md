@@ -1,5 +1,5 @@
 ## Installation
-* First, you need to download AutoHotKey v1.1 (Not 2.0!), and run the installer
+* First, you need to download [AutoHotKey v1.1](https://www.autohotkey.com/) (Not 2.0!), and run the installer
 * Once complete, download the most recent version of the Anti-Disconnect through the most recent GitHub Release(Download source code ZIP)
 * After downloading, extract the ZIP file to your desired directory
 ## Before starting the macro:
@@ -16,4 +16,4 @@ Anti-Disconnect has lots of features to keep you in game while you go afk, these
 * says custom messages in the chat!
 you can select one of the above actions, and also change how often it does that action right in the Anti-Disconnect Menu!
 
-Join our [Discord server](discord.gg/5Y5QQXrcGp) to get updates!
+Our Discord: [discord.gg/5Y5QQXrcGp](https://discord.gg/5Y5QQXrcGp)
