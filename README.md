@@ -1,6 +1,6 @@
 ## Installation
 * First, you need to download [AutoHotKey v1.1](https://www.autohotkey.com/) (Not 2.0!), and run the installer
-* Once complete, download the most recent version of the Anti-Disconnect through the most recent GitHub Release(Download source code ZIP)
+* Once complete, download the most recent version of the Anti-Disconnect Macro through the most recent GitHub Release (Download Anti-DisconnectMacro.zip)
 * After downloading, extract the ZIP file to your desired directory
 ## Before starting the macro:
 
