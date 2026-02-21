@@ -1,2 +1,2 @@
-2.0.0
+test version
 https://github.com/ICEBERGTheDeveloper/Roblox-Anti-Disconnect/releases/download/v2.0.0/Anti-Disconnect.zip
